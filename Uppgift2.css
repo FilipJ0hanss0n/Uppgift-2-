@@ -1,0 +1,30 @@
+body{
+    background-color:blue;
+    text-decoration:none;
+}
+
+p{
+    color:red;
+}
+
+h1{
+    font-family:arial;
+    font-size:22px;
+}
+
+.hej {
+    background-color:purple;
+    color:black;
+    text-align:center;
+}
+
+.hej1 {
+    text-align:right;
+    color:black;
+    background-color:purple;
+}
+
+.hej2 {
+    border-style:dashed;
+    
+}
